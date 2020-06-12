@@ -7,6 +7,9 @@ The materials I used are basically written in English. However, out of some reas
 ## Pre-internship learnings
 Following Alex's and Jing's instructions, I armed myself familiar with the following topics:
 ### Dask
+[The Dask Documentation](https://docs.dask.org/en/latest/)
+[The Dask.Distributed Documentation](https://distributed.dask.org/en/latest/) [The exampls](https://github.com/dask/dask-tutorial) are substantial materials for learning Dask. I've learned the APIs for Array, Bag, Dataframe, Delayed. But I haven't learned Distributed in details. It seems an advanced API for scheduling. I read until Build Understanding/Efficiency.
+
 ### Rolling Continuous Futures
 ### Leveraging time series momentum to trade futures
 ### Reinforcement Learning and Deep Reinforcement Learning
@@ -14,8 +17,9 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 ### LSTM model 
 ### SQL
 ### Airflow
+### Python OOP Review
 ### Miscellanea
-- What is the "cross-section"? [this link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does cross-section simply ranked the returns in a universe?
+- What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does cross-section simply ranked the returns in a universe?
 
 - On June 11, Dow plunges nearly 7% as stocks post worst session since March. I really can't figure out why, 
 although many plunges in history are equally difficult to explain. The resurgent coronavirus cases due to past protests are not sufficient to explain since the negative sentiment that appeared many days ago should have been slowly digested day by day. 

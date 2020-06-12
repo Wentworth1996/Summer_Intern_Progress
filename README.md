@@ -8,7 +8,7 @@ The materials I used are basically written in English. However, out of some reas
 Following Alex's and Jing's instructions, I armed myself familiar with the following topics:
 ### Dask
 [The Dask Documentation](https://docs.dask.org/en/latest/)
-[The Dask.Distributed Documentation](https://distributed.dask.org/en/latest/) [The exampls](https://github.com/dask/dask-tutorial) are substantial materials for learning Dask. I've learned the APIs for Array, Bag, Dataframe, Delayed. But I haven't learned Distributed in details. It seems an advanced API for scheduling. I read until Build Understanding/Efficiency.
+[the Dask.Distributed Documentation](https://distributed.dask.org/en/latest/) and [the examples](https://github.com/dask/dask-tutorial) are substantial materials for learning Dask. I've learned the APIs for Array, Bag, Dataframe, Delayed. But I haven't learned Distributed in details. It seems an advanced API for scheduling. I read until Build Understanding/Efficiency.
 
 ### Rolling Continuous Futures
 ### Leveraging time series momentum to trade futures

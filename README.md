@@ -19,7 +19,7 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 ### Airflow
 ### Python OOP Review
 ### Miscellanea
-- What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does cross-section simply ranked the returns in a universe?
+- What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does the cross-section simply rank the returns in a universe?
 
 - On June 11, Dow plunges nearly 7% as stocks post worst session since March. I really can't figure out why, 
 although many plunges in history are equally difficult to explain. The resurgent coronavirus cases due to past protests are not sufficient to explain since the negative sentiment that appeared many days ago should have been slowly digested day by day. 

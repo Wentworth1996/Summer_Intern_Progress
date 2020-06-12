@@ -13,6 +13,7 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 ### Rolling Continuous Futures
 ### Leveraging time series momentum to trade futures
 ### Reinforcement Learning and Deep Reinforcement Learning
+[The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games.
 ### DRL for trading
 ### LSTM model 
 ### SQL

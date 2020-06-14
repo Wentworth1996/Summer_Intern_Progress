@@ -25,5 +25,5 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 although many plunges in history are equally difficult to explain. The resurgent coronavirus cases due to past protests are not sufficient to explain since the negative sentiment that appeared many days ago should have been slowly digested day by day. 
 I would rather attribute this to the behavior of certain funds. But could a few number of funds be that powerful?
 
-- [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), an mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. Pair Trading.
+- [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), a mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. Pair Trading.
 ## Behavioral trainings: Etiquette and Norms

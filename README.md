@@ -33,8 +33,8 @@ I would rather attribute this to the behavior of certain funds. But could a few 
 
 - [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), a mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. Pair Trading.
 
-- Arbitrage. [Paper I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404905)(cointegration from Multivariate Ornstein-Uhlenbeck process's perspectives) reviewd in details. [Vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)) provides an introduction to the related algebra. [Complex eigenvector transform](http://www.sci.wsu.edu/math/faculty/schumaker/Math512/512F10Ch2B.pdf) explains the naive matrix pseudo-diagonalization in this paper.
+- Arbitrage. [Paper I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404905) (cointegration from Multivariate Ornstein-Uhlenbeck process's perspectives) reviewd in details. [Vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)) provides an introduction to the related algebra. [Complex eigenvector transform](http://www.sci.wsu.edu/math/faculty/schumaker/Math512/512F10Ch2B.pdf) explains the naive matrix pseudo-diagonalization in this paper.
 
-- [Fuzzy systems](https://arxiv.org/abs/1401.1888)(and Part II, III). Very interesting papers. The author claimed that he earned 100M in the market using this model, but out of pure academic pursuits he then became a professor and made this research public. Beautiful theories logically explained, fabulous experimental results.
+- [Fuzzy systems](https://arxiv.org/abs/1401.1888) (and Part II, III). Very interesting papers. The author claimed that he earned 100M in the market using this model, but out of pure academic pursuits he then became a professor and made this research public. Beautiful theories logically explained, fabulous experimental results.
 ## Behavioral trainings: Etiquette and Norms
 TBC on June 15.

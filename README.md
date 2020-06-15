@@ -10,14 +10,20 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 [The Dask Documentation](https://docs.dask.org/en/latest/), [the Dask.Distributed Documentation](https://distributed.dask.org/en/latest/) and [the examples](https://github.com/dask/dask-tutorial) are substantial materials for learning Dask. I've learned the APIs for Array, Bag, Dataframe, Delayed. But I haven't learned Distributed in details. It seems an advanced API for scheduling. I read until Build Understanding/Efficiency.
 
 ### Rolling Continuous Futures
+- [Traditional trading strategies overview](https://www.quantconnect.com/tutorials/strategy-library/term-structure-effect-in-commodities). [Traditional methods to combine alphas1](https://zhuanlan.zhihu.com/p/38340204), [alphas2](https://zhuanlan.zhihu.com/p/38340466).
+- [Paper I](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.20373) reviewd in details. The five methods result in the same (statistically) time series. The parametric F test, the non-parametric Kruskal-Wallis test, and Brown Forsythe's statistic (see wiki) are important tests for evaluating the similarity.
 ### Leveraging time series momentum to trade futures
 ### Reinforcement Learning and Deep Reinforcement Learning
-[The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games.
+[The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games. It provides a RL coding framework. 
 ### DRL for trading
 ### LSTM model 
+[Page](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) reviewd. Better find some more technical papers. LSTM, or more generally, they recurrent network, seems the only DL model for time series.
 ### SQL
+[Page](https://www.liaoxuefeng.com/wiki/1016959663602400/1017803857459008) contains a tutorial for SQLAlchemy. Easy! [Berkeley SQL](https://www.stat.berkeley.edu/~spector/sql.pdf) contains the fundamental query sentences. 
 ### Airflow
+[Airflow](https://airflow.apache.org/) page contains the official documentation. I haven't gone into details since it is too practical. Better consult this page when actually working on it. 
 ### Python OOP Review
+[Guide](https://www.liaoxuefeng.com/wiki/1016959663602400) is a Python tutorial written in Chinese. Function, OOP, SQL parts reviewed.
 ### Miscellanea
 - What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does the cross-section simply rank the returns in a universe?
 
@@ -26,4 +32,8 @@ although many plunges in history are equally difficult to explain. The resurgent
 I would rather attribute this to the behavior of certain funds. But could a few number of funds be that powerful?
 
 - [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), a mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. Pair Trading.
+
+- Arbitrage. [Paper I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404905)(cointegration from Multivariate Ornstein-Uhlenbeck process's perspectives) reviewd in details. [Vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)) provides an introduction to the related algebra. [Complex eigenvector transform](http://www.sci.wsu.edu/math/faculty/schumaker/Math512/512F10Ch2B.pdf) explains the naive matrix pseudo-diagonalization in this paper.
+
+- [Fuzzy systems](https://arxiv.org/abs/1401.1888)(and Part II, III). Very interesting papers. The author claimed that he earned 100M in the market using this model, but out of pure academic pursuits he then became a professor and made this research public. Beautiful theories logically explained, fabulous experimental results.
 ## Behavioral trainings: Etiquette and Norms

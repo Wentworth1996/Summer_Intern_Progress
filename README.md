@@ -21,7 +21,7 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 [The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games. It provides a RL coding framework.  [Atari](https://arxiv.org/abs/1312.5602) the first DQN. See also [cutting plane method](https://www.math.cuhk.edu.hk/course_builder/1415/math3220/L5.pdf), [simplex table](https://personal.utdallas.edu/~scniu/OPRE-6201/documents/LP06-Simplex-Tableau.pdf).
 
 ### DRL for trading
-
+Many papers... some been read in details but not anticipate to implement. [Paper I] (https://arxiv.org/abs/2004.06627) it is rather a graduation thesis but the points are clearly presented.
 ### LSTM model 
 [Page](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) reviewd. Better find some more technical papers. LSTM, or more generally, they recurrent network, seems the only DL model for time series.
 

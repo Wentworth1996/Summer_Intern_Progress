@@ -10,7 +10,6 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 [The Dask Documentation](https://docs.dask.org/en/latest/), [the Dask.Distributed Documentation](https://distributed.dask.org/en/latest/) and [the examples](https://github.com/dask/dask-tutorial) are substantial materials for learning Dask. I've learned the APIs for Array, Bag, Dataframe, Delayed. But I haven't learned Distributed in details. It seems an advanced API for scheduling. I read until Build Understanding/Efficiency.
 
 ### Rolling Continuous Futures
-- [Traditional trading strategies overview](https://www.quantconnect.com/tutorials/strategy-library/term-structure-effect-in-commodities). [Traditional methods to combine alphas1](https://zhuanlan.zhihu.com/p/38340204), [alphas2](https://zhuanlan.zhihu.com/p/38340466).
 - [Paper I](https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.20373) reviewd in details. The five methods result in the same (statistically) time series. The parametric F test, the non-parametric Kruskal-Wallis test, and Brown Forsythe's statistic (see wiki) are important tests for evaluating the similarity.
 ### Leveraging time series momentum to trade futures
 ### Reinforcement Learning and Deep Reinforcement Learning
@@ -25,9 +24,10 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 ### Python OOP Review
 [Guide](https://www.liaoxuefeng.com/wiki/1016959663602400) is a Python tutorial written in Chinese. Function, OOP, SQL parts reviewed.
 ### Miscellanea
+- [Traditional trading strategies overview](https://www.quantconnect.com/tutorials/strategy-library/term-structure-effect-in-commodities). [Traditional methods to combine alphas1](https://zhuanlan.zhihu.com/p/38340204), [alphas2](https://zhuanlan.zhihu.com/p/38340466).
 - What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does the cross-section simply rank the returns in a universe?
 
-- On June 11, Dow plunges nearly 7% as stocks post worst session since March. I really can't figure out why, 
+- (June 11) Dow plunges nearly 7% as stocks post worst session since March. I really can't figure out why, 
 although many plunges in history are equally difficult to explain. The resurgent coronavirus cases due to past protests are not sufficient to explain since the negative sentiment that appeared many days ago should have been slowly digested day by day. 
 I would rather attribute this to the behavior of certain funds. But could a few number of funds be that powerful?
 
@@ -37,3 +37,4 @@ I would rather attribute this to the behavior of certain funds. But could a few 
 
 - [Fuzzy systems](https://arxiv.org/abs/1401.1888)(and Part II, III). Very interesting papers. The author claimed that he earned 100M in the market using this model, but out of pure academic pursuits he then became a professor and made this research public. Beautiful theories logically explained, fabulous experimental results.
 ## Behavioral trainings: Etiquette and Norms
+TBC on June 15.

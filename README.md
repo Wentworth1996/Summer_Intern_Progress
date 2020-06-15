@@ -18,7 +18,7 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 [Notorious AQR paper](http://docs.lhpedersen.com/TimeSeriesMomentum.pdf). Typical old Chicago school paper with high school maths. Formula in Page 17 claimed that the return is proportional to the position. Not very clear: what is "cross section", ex-ante vol, how to distinguish speculators and hedgers. Reviewed up to page 28. 
 
 ### Reinforcement Learning and Deep Reinforcement Learning
-[The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games. It provides a RL coding framework.  [Atari](https://arxiv.org/abs/1312.5602) the first DQN. 
+[The Gomoko project](https://github.com/junxiaosong/AlphaZero_Gomoku) basically implements the AlphaZero to Gomoko Games. It provides a RL coding framework.  [Atari](https://arxiv.org/abs/1312.5602) the first DQN. See also [cutting plane method](https://www.math.cuhk.edu.hk/course_builder/1415/math3220/L5.pdf), [simplex table](https://personal.utdallas.edu/~scniu/OPRE-6201/documents/LP06-Simplex-Tableau.pdf).
 
 ### DRL for trading
 
@@ -36,13 +36,14 @@ Following Alex's and Jing's instructions, I armed myself familiar with the follo
 
 ### Miscellanea
 - [Traditional trading strategies overview](https://www.quantconnect.com/tutorials/strategy-library/term-structure-effect-in-commodities). [Traditional methods to combine alphas1](https://zhuanlan.zhihu.com/p/38340204), [alphas2](https://zhuanlan.zhihu.com/p/38340466).
+
 - What is the "cross-section"? [This link](https://stats.stackexchange.com/questions/40852/what-is-cross-section-in-cross-section-of-stock-return/40857) explained the concept in a understandable way but that's not enough. If the study of cross-section aims to answer the question why stock A earns higher/lower returns than stock B, then does the cross-section simply rank the returns in a universe?
 
 - (June 11) Dow plunges nearly 7% as stocks post worst session since March. I really can't figure out why, 
 although many plunges in history are equally difficult to explain. The resurgent coronavirus cases due to past protests are not sufficient to explain since the negative sentiment that appeared many days ago should have been slowly digested day by day. 
 I would rather attribute this to the behavior of certain funds. But could a few number of funds be that powerful?
 
-- [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), a mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. pair trading.
+- [Fréchet distance](https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance), a mathematically-rigorous method to measure the similarities between two (continuous) time series, i.e. curve. The scores maybe useful to construct an arbitrage strategy, e.g. pair trading. [Timing](https://www.sciencedirect.com/science/article/pii/S0005109813003609) okay...academic style pair-trading timing rule.
 
 - Arbitrage. [Paper I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404905) (cointegration from Multivariate Ornstein-Uhlenbeck process's perspectives) reviewd in details. [Vectorization](https://en.wikipedia.org/wiki/Vectorization_(mathematics)) provides an introduction to the related algebra. [Complex eigenvector transform](http://www.sci.wsu.edu/math/faculty/schumaker/Math512/512F10Ch2B.pdf) explains the naive matrix pseudo-diagonalization in this paper.
 [Values of commodity futures](https://www.tandfonline.com/doi/pdf/10.2469/faj.v62.n2.4084?needAccess=true) interesting abstract but haven't read.
